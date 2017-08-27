@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "introduction to ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poompisek/Lab02.git"
+  },
+  "author": "Poompisek Natiphuwarak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poompisek/Lab02/issues"
+  },
+  "homepage": "https://github.com/Poompisek/Lab02#readme"
+}
